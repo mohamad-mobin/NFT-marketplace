@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 
 import homepage from '../views/homepage.vue'
 import createAcc from '@/views/createAcc.vue'
@@ -47,7 +47,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory('/NFT-marketplace/'),
   routes,
     scrollBehavior() {
     return { 

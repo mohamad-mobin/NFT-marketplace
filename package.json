@@ -6,7 +6,6 @@
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
   },
-  "homepage": "https://mohamad-mobin.github.io/NFT-marketplace",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
