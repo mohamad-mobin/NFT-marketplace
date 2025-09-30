@@ -1,0 +1,28 @@
+{
+  "imMobinRezaee": ".من مبین رضایی هستم",
+  "imIranian": "من یک طراح وب و توسعه‌دهنده‌ی فرانت‌اند ایرانی هستم که بر ساخت تجربیات کاربری تمیز و کاربرپسند تمرکز دارم، من به ساخت نرم‌افزارهای عالی که زندگی اطرافیانم را بهبود می‌بخشد، علاقه‌ی زیادی دارم.",
+  "webDeveloper": "برنامه نویس وب",
+  "aboutMe": "درباره من",
+  "myProjects": "پروژه های من",
+  "bounce": "پروژه ها",
+  "Or": "یا",
+
+
+"picName": "نام :",
+  "picNationality": "ملیت :",
+  "picAge": "سن :",
+  "picAddress": "آدرس :",
+  "picFreelance": "وضعیت فریلنس :",
+  "picEducation": "تحصیلات :",
+  "picEmail": "ایمیل :",
+  "picLanguages": "زبان‌ها :",
+
+  "picNameValue": "مبین رضایی",
+  "picNationalityValue": "ایرانی",
+  "picAgeValue": "۱۹ سال",
+  "picAddressValue": "کرمانشاه",
+  "picFreelanceValue": "در دسترس",
+  "picEducationValue": "مهندسی نرم‌افزار",
+  "picLanguagesValue": "فارسی، انگلیسی"
+
+}
