@@ -18,6 +18,8 @@ export default {
     body{
         background: #2B2B2B;
         font-family: workSans;
+    }
+    html,body{
         overflow-x: hidden;
     }
 </style>
