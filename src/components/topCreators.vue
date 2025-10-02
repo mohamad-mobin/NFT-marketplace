@@ -2,8 +2,8 @@
     <div class="container mx-auto px-10 mt-32">
         <div class="pb-16 flex justify-between items-center">
             <div>
-                <h1 class="text-white text-3xl">Top creators</h1>
-                <p class="text-gray-300">Checkout Top Rated Creators on the NFT Marketplace</p>
+                <h1 data-aos="fade-down-right"  class="text-white text-3xl">Top creators</h1>
+                <p data-aos="fade-down-left" class="text-gray-300">Checkout Top Rated Creators on the NFT Marketplace</p>
             </div>
             <div>
                 <button class="border lg:flex hidden border-[#A259FF] gap-2 rounded-2xl py-3 px-6">

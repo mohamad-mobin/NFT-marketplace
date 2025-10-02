@@ -23,7 +23,7 @@
     <div class="bg-[#3B3B3B]">
         <div class="container px-10 md:px-28 mx-auto py-16">
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-10">
-                <div class="w-full">
+                <div data-aos="zoom-out-up" class="w-full">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/1.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Distant Galaxy</p>
@@ -43,7 +43,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full">
+                <div data-aos="zoom-out-up" class="w-full">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/2.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Life On Edena</p>
@@ -63,7 +63,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full">
+                <div data-aos="zoom-out-up" class="w-full">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/3.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>AstroFiction</p>
@@ -83,7 +83,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full md:block hidden">
+                <div data-aos="zoom-out-up" class="w-full md:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/4.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>CryptoCity</p>
@@ -103,7 +103,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full lg:block hidden">
+                <div data-aos="zoom-out-up" class="w-full lg:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/5.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>ColorfulDog 0524</p>
@@ -123,7 +123,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full lg:block hidden">
+                <div data-aos="zoom-out-up" class="w-full lg:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/6.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Space Tales</p>
@@ -143,7 +143,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full lg:block hidden">
+                <div data-aos="zoom-out-up" class="w-full lg:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/7.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Cherry Blossom Girl 037</p>
@@ -163,7 +163,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full md:block hidden">
+                <div data-aos="zoom-out-up" class="w-full md:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/8.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Dancing Robots 0987</p>
@@ -183,7 +183,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full md:block hidden">
+                <div data-aos="zoom-out-up" class="w-full md:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/9.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>IceCream Ape </p>

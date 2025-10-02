@@ -2,8 +2,8 @@
     <div class="container mx-auto px-10 mt-32">
         <div class="pb-16 flex justify-between items-center">
             <div>
-                <h1 class="text-white text-3xl">Discover More NFTs</h1>
-                <p class="text-gray-300">Explore new trending NFTs</p>
+                <h1 data-aos="fade-down-right" class="text-white text-3xl">Discover More NFTs</h1>
+                <p data-aos="fade-down-left" class="text-gray-300">Explore new trending NFTs</p>
             </div>
             <div>
                 <button class="border lg:flex hidden items-center border-[#A259FF] gap-2 rounded-2xl py-3 px-6">
@@ -19,28 +19,28 @@
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
 
-            <router-link :to="{ name:'nftPage' }" class="w-full">
-                        <img class="w-full duration-300 cursor-pointer" src="../assets/images/discover-images/discover1.png" alt="">
-                        <div class="w-full bg-[#3b3b3b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
-                            <p>Distant Galaxy</p>
-                            <div class="flex gap-2 pt-1">
-                                <img class="size-5" src="../assets/images/discover-images/discoverAvatar1.png" alt="">
-                                <p class="text-sm" style="font-family: spaceMono;">MoonDancer</p>
-                            </div>
-                            <div class="flex justify-between pt-5">
-                                <div>
-                                    <p style="font-family: spaceMono;" class="text-gray-400 text-sm">Price</p>
-                                    <p>1.63 ETH</p>
+            <router-link data-aos="flip-down" :to="{ name:'nftPage' }" class="w-full">
+                            <img class="w-full duration-300 cursor-pointer" src="../assets/images/discover-images/discover1.png" alt="">
+                            <div class="w-full bg-[#3b3b3b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
+                                <p>Distant Galaxy</p>
+                                <div class="flex gap-2 pt-1">
+                                    <img class="size-5" src="../assets/images/discover-images/discoverAvatar1.png" alt="">
+                                    <p class="text-sm" style="font-family: spaceMono;">MoonDancer</p>
                                 </div>
-                                <div>
-                                    <p style="font-family: spaceMono;" class="text-gray-400 text-sm">Highest Bid</p>
-                                    <p>0.33 wETH</p>
+                                <div class="flex justify-between pt-5">
+                                    <div>
+                                        <p style="font-family: spaceMono;" class="text-gray-400 text-sm">Price</p>
+                                        <p>1.63 ETH</p>
+                                    </div>
+                                    <div>
+                                        <p style="font-family: spaceMono;" class="text-gray-400 text-sm">Highest Bid</p>
+                                        <p>0.33 wETH</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
             </router-link>
         
-            <router-link :to="{ name:'nftPage' }" class="w-full">
+            <router-link data-aos="flip-down" :to="{ name:'nftPage' }" class="w-full">
                         <img class="w-full duration-300 cursor-pointer" src="../assets/images/discover-images/discover2.png" alt="">
                         <div class="w-full bg-[#3b3b3b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                             <p>Life On Edena</p>
@@ -61,7 +61,7 @@
                         </div>
             </router-link>
                 
-            <router-link :to="{ name:'nftPage' }" class="w-full">
+            <router-link data-aos="flip-down" :to="{ name:'nftPage' }" class="w-full">
             <img class="w-full duration-300 cursor-pointer" src="../assets/images/discover-images/discover3.png" alt="">
             <div class="w-full bg-[#3b3b3b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                 <p>AstroFiction</p>

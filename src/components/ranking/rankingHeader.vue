@@ -2,8 +2,8 @@
     <div>
 
     <div class="container mx-auto px-10 pt-10 pb-20">
-        <h1 class="text-2xl text-white">Browse Marketplace</h1>
-        <p class="text-white pt-1">Browse through more than 50k NFTs on the NFT Marketplace.</p>
+        <h1 data-aos="fade-down-right" class="text-2xl text-white">Browse Marketplace</h1>
+        <p data-aos="fade-down-left" class="text-white pt-1">Browse through more than 50k NFTs on the NFT Marketplace.</p>
     </div>
 
     <div class="bg-[#2b2b2b]">

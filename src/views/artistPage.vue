@@ -1,6 +1,8 @@
 <template>
-    <banner />
-    <gallery />
+    <div class="pt-16 md:pt-0">
+        <banner />
+        <gallery />
+    </div>
 </template>
 <script>
 import banner from '@/components/artistPage/banner.vue';

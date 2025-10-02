@@ -14,7 +14,7 @@
         <!-- tables -->
         <div class="mb-24 mt-5 space-y-3">
 
-            <div v-for="(item, index) in tableData" :key="index" class="bg-[#3b3b3b] hover:bg-[#1b1b1b] hover:border border border-[#3b3b3b] duration-300 cursor-pointer py-3 px-6 rounded-2xl">
+            <div data-aos="fade-down-left" v-for="(item, index) in tableData" :key="index" class="bg-[#3b3b3b] hover:bg-[#1b1b1b] hover:border border border-[#3b3b3b] duration-300 cursor-pointer py-3 px-6 rounded-2xl">
                 <div class="space-x-5 flex justify-between items-center">
                     <div class="flex items-center gap-5">
                         <span class="size-5 flex justify-center items-center bg-[#2b2b2b] p-1 rounded-full text-xs text-slate-500">{{ item.rank }}</span>

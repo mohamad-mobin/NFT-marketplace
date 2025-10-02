@@ -1,30 +1,30 @@
 <template>
     <div class="bg-[#2b2b2b]">
         <div>
-            <img class="w-full" src="../../assets/images/banner.png" alt="">
+            <img data-aos="zoom-in" class="w-full" src="../../assets/images/banner.png" alt="">
         </div>
         <div class="container px-28 mx-auto">
             <div class="size-28 relative -top-16">
-                <img class="rounded-3xl border-2 border-black" src="../../assets/images/profileImage.png" alt="">
+                <img data-aos="zoom-in" class="rounded-3xl border-2 border-black" src="../../assets/images/profileImage.png" alt="">
             </div>
         </div>
         <div class="container px-10 md:px-28 mx-auto pb-10">
             <div class="relative -top-5 flex lg:flex-row flex-col gap-y-5 justify-between">
-                <h1 class="text-2xl text-white">Animakid</h1>
+                <h1 data-aos="zoom-in-left" class="text-2xl text-white">Animakid</h1>
                 <div class="flex sm:flex-row flex-col gap-5">
-                    <button class="bg-[#A259FF] px-6 py-3 text-white cursor-pointer rounded-2xl flex gap-2">
+                    <button data-aos="zoom-in-right" class="bg-[#A259FF] px-6 py-3 text-white cursor-pointer rounded-2xl flex gap-2">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75" /></svg>
         
                         <span>0xc0E3...B79C</span>
                     </button>
-                    <button class="border-[#A259FF] border px-6 py-3 text-white cursor-pointer rounded-2xl flex gap-2">
+                    <button data-aos="zoom-in-right" class="border-[#A259FF] border px-6 py-3 text-white cursor-pointer rounded-2xl flex gap-2">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="#A259FF" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 text-[#A259FF]"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
         
                         <span>Follow</span>
                     </button>
                 </div>
             </div>
-            <div class="text-white flex gap-10">
+            <div data-aos="zoom-in-left" class="text-white flex gap-10">
                 <div class="flex flex-col">
                     <div class="text-xl">250k+</div>
                     <div class="text-sm">Volume</div>
@@ -39,12 +39,12 @@
                 </div>
             </div>
             <div class="py-5">
-                <p class="text-gray-400" style="font-family: spaceMono;">Bio</p>
-                <p class="text-white pt-2">The internet's friendliest designer kid.</p>
+                <p data-aos="zoom-in-left" class="text-gray-400" style="font-family: spaceMono;">Bio</p>
+                <p data-aos="zoom-in-left" class="text-white pt-2">The internet's friendliest designer kid.</p>
             </div>
             <div>
-                <p class="text-gray-400" style="font-family: spaceMono;">Links</p>
-                <div class="flex gap-2 items-center pt-2">
+                <p data-aos="zoom-in-right" class="text-gray-400" style="font-family: spaceMono;">Links</p>
+                <div data-aos="zoom-in-right" class="flex gap-2 items-center pt-2">
                     <a href="#">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 32 32" fill="none">
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M16 5C9.92487 5 5 9.92487 5 16C5 22.0751 9.92487 27 16 27C22.0751 27 27 22.0751 27 16C27 9.92487 22.0751 5 16 5ZM3 16C3 8.8203 8.8203 3 16 3C23.1797 3 29 8.8203 29 16C29 23.1797 23.1797 29 16 29C8.8203 29 3 23.1797 3 16Z" fill="#858584"/>

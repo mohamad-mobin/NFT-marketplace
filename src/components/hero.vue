@@ -1,6 +1,6 @@
 <template>
     <div class="flex mt-10 justify-between md:flex-row flex-col-reverse lg:gap-32 md:gap-10 container mx-auto px-10">
-        <div class="flex flex-col gap-y-5 items-start">
+        <div data-aos="fade-right" class="flex flex-col gap-y-5 items-start">
             <h1 class="text-white text-3xl md:text-5xl font-semibold pt-5 md:pt-0">Discover <br class="md:inline-block hidden"> digital art & <br>Collect NFTs</h1>
             <p class="text-gray-300">NFT marketplace UI created with Anima for <br class="md:inline-block hidden"> Figma. Collect, buy and sell art from more <br class="md:inline-block hidden"> than 20k NFT artists.</p>
             <button class="bg-[#A259FF] flex gap-2 rounded-2xl py-3 px-6">
@@ -24,7 +24,7 @@
                 </div>
             </div>
         </div>
-        <div>
+        <div data-aos="fade-left">
             <div>
                 <img src="../assets/images/heroImage.png" class="md:w-[400px] w-full" draggable="false" alt="">
                 <div class="bg-[#3b3b3b] p-4 rounded-bl-2xl rounded-br-2xl">

@@ -2,7 +2,7 @@
     <div>
         <div class="bg-[#3B3B3B] pt-16 pb-20">
     <div class="container mx-auto px-10 grid md:grid-cols-2 lg:grid-cols-3 gap-10">
-                <div class="w-full">
+                <div data-aos="flip-left" class="w-full">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/collection-images/1.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Magic Mushroom 0325</p>
@@ -22,7 +22,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full">
+                <div data-aos="flip-left" class="w-full">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/collection-images/2.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Happy Robot 032</p>
@@ -42,7 +42,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full">
+                <div data-aos="flip-left" class="w-full">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/collection-images/3.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Happy Robot 024</p>
@@ -62,7 +62,7 @@
                                 </div>
                 </div>
                 </div>
-                <div class="w-full md:block hidden">
+                <div data-aos="flip-left" class="w-full md:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/collection-images/4.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Designer Bear</p>
@@ -82,7 +82,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full lg:block hidden">
+                <div data-aos="flip-left" class="w-full lg:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/collection-images/5.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Colorful Dog 0356</p>
@@ -102,7 +102,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full lg:block hidden">
+                <div data-aos="flip-left" class="w-full lg:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/8.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Space Tales</p>
@@ -122,7 +122,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full lg:block hidden">
+                <div data-aos="flip-left" class="w-full lg:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/gallery-images/4.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Cherry Blossom Girl 037</p>
@@ -142,7 +142,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full md:block hidden">
+                <div data-aos="flip-left" class="w-full md:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/collection-images/6.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>Dancing Robots 0987</p>
@@ -162,7 +162,7 @@
                                 </div>
                             </div>
                 </div>
-                <div class="w-full md:block hidden">
+                <div data-aos="flip-left" class="w-full md:block hidden">
                             <img class="w-full duration-300 cursor-pointer" src="../../assets/images/collection-images/7.png" alt="">
                             <div class="w-full bg-[#2b2b2b] py-4 px-5 rounded-bl-2xl rounded-br-2xl text-white">
                                 <p>IceCream Ape </p>
