@@ -47,7 +47,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHashHistory('/NFT-marketplace/'),
+  history: createWebHashHistory(),
   routes,
     scrollBehavior() {
     return { 
