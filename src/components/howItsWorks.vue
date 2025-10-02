@@ -24,7 +24,7 @@
                 <p class="text-center text-white pb-2">Create Collection</p>
                 <p class="text-center text-sm text-gray-400">Upload your work and setup your collection. Add a description, social links and floor price.</p>
             </div>
-            <div      data-aos-anchor-placement="top-bottom" class="bg-[#3b3b3b] w-full rounded-2xl h-[330px] lg:h-fit pb-5 px-5 md:w-64">
+            <div data-aos="fade-up" data-aos-anchor-placement="top-bottom" class="bg-[#3b3b3b] w-full rounded-2xl h-[330px] lg:h-fit pb-5 px-5 md:w-64">
                 <div class="flex justify-center items-center">
                     <img class="w-[200px] md:w-[300px]" src="../assets/images/how-works-images/work3.png" alt="">
                 </div>
