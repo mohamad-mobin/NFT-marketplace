@@ -60,12 +60,11 @@ NFT collections.
 
 | Home | Marketplace | Create |
 |:---:|:---:|:---:|
-| <img src="./src/assets/images/repo-images/home.jpg" alt="Home" width="300"> | <img src="./src/assets/images/repo-images/marketplace.jpg" alt="Marketplace" width="300"> | <img src="./src/assets/images/repo-images/create.jpg" alt="Create NFT" width="300"> |
+| <img src="./src/assets/images/repo-images/home.jpg" alt="Home" width="300" height="180"> | <img src="./src/assets/images/repo-images/marketplace.jpg" alt="Marketplace" width="300" height="180"> | <img src="./src/assets/images/repo-images/create.jpg" alt="Create NFT" width="300" height="180"> |
 
 | Mushroom | Wallet |
 |:---:|:---:|
-| <img src="./src/assets/images/repo-images/mushroom.jpg" alt="Mushroom NFT" width="300"> | <img src="./src/assets/images/repo-images/wallet.jpg" alt="Wallet" width="300"> |
+| <img src="./src/assets/images/repo-images/mushroom.jpg" alt="Mushroom NFT" width="300" height="180"> | <img src="./src/assets/images/repo-images/wallet.jpg" alt="Wallet" width="300" height="180"> |
 
 </div>
-
 ---
