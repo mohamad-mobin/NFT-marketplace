@@ -35,8 +35,8 @@ NFT collections.
 | Frontend | Libraries | Tools |
 |:---|:---|:---|
 | HTML5 • CSS3 • JavaScript | Lenis • AOS • Rellax | Git • GitHub |
-| Vue.js • | Vite • VSCodium |
-| TypeScript • Tailwind CSS • Vuetify | | Linux • Ubuntu |
+| Vue.js | Vite • VSCodium |
+| Tailwind CSS | Linux • Ubuntu |
 
 ---
 
