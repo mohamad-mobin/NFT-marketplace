@@ -67,4 +67,3 @@ NFT collections.
 | <img src="./src/assets/images/repo-images/mushroom.jpg" alt="Mushroom NFT" width="300" height="180"> | <img src="./src/assets/images/repo-images/wallet.jpg" alt="Wallet" width="300" height="180"> |
 
 </div>
----
