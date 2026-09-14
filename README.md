@@ -6,6 +6,7 @@
 
 A modern and minimal NFT marketplace built with a dark visual experience,
 smooth interactions, and animation-focused UI.
+
 <a href="https://vue-nft-marketplace.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20View%20Live%20Marketplace-FFB400?style=for-the-badge&labelColor=181818" alt="View Live Marketplace">
 </a>
